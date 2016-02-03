@@ -2,7 +2,7 @@
 
 ##Installation 
 
-###Linux
+###OSX
 
 In your terminal type:
 
